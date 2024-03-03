@@ -14,6 +14,8 @@ You don't have to download entire repositories.
 
 You need to drag and drop the build files into the open simulator, then search for the app and run it.
 
+Noticed that u have an android simulator from android SDK that can be used in the Windows, Linux and IOS systems. However IOS simulator you can use with IOS systems.
+
 ## Technology Stack
 - React Native
 - Expo
